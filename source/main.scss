@@ -36,7 +36,7 @@ body {
             margin-left: 24px;
     
             a {
-                color: #fff;
+                color: variaveis.$corFonte;
                 text-decoration: none;
             }
         }
@@ -61,7 +61,7 @@ body {
             .product-button {
                 display: block;
                 background-color: variaveis.$corSecundaria;
-                color: #fff;
+                color: variaveis.$corFonte;
                 text-align: center;
                 padding: 8px 0;
                 border-radius: 8px;
